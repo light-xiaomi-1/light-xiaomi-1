@@ -1,16 +1,20 @@
 以下内容均为测试
 
-[![哈喽](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=🍧哈喽~这里是小米🍧)](https://git.io/typing-svg)
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=⭐哈喽~这里是小米⭐">
+</div>
+
 
 ![星野](./img/banner.jpg)
 
-[![哈喽](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=宅家写代码✨;热爱二次元🌸;温柔且上进;万事皆可期)](https://git.io/typing-svg)
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=18&pause=1000&color=E199E7&center=true&vCenter=true&width=435&lines=可爱且上进✨;万事皆可期🌸">
+</div>
 
 ---
 
 ## 🍥 我的小档案
-![头像](./img/avatar.png)
-
 - 💖 昵称：________
 - 🎀 身份：二次元爱好者 + 程序员
 - 🍰 爱好：追番、画画、写代码
@@ -49,5 +53,7 @@
 ---
 
 ![樱花](./images/sakura.gif)
+
+💖 世间温柔，皆得所愿 💖
 
 💖 世间温柔，皆得所愿 💖
