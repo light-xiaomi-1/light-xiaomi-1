@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=22&pause=500&color=FF99CC&width=450&lines=宅家写代码✨;热爱二次元🌸;温柔且上进;万事皆可期">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=喵喵喵喵喵🍎;喵喵喵喵喵🍋;喵喵喵喵喵🍏;喵喵喵喵喵🫐&font=ZCOOL+KuaiLe&color=FF99CC&size=22">
 </p>
 
 ---
