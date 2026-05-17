@@ -1,59 +1,53 @@
-# 🍡 哈喽~这里是xiaomi
+以下内容均为测试
 
-<p align="center">
-  <img src=".\img\banner.jpg" width="100%">
-</p>
+[![哈喽](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=🍧哈喽~这里是小米🍧)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=喵喵喵喵喵🍎;喵喵喵喵喵🍋;喵喵喵喵喵🍏;喵喵喵喵喵🫐&font=ZCOOL+KuaiLe&color=FF99CC&size=22">
-</p>
+![星野](./img/banner.jpg)
+
+[![哈喽](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=宅家写代码✨;热爱二次元🌸;温柔且上进;万事皆可期)](https://git.io/typing-svg)
 
 ---
 
 ## 🍥 我的小档案
-<p align="left">
-  <img src="./images/avatar.png" width="150" align="right">
-</p>
+![头像](./img/avatar.png)
 
-- 💖 昵称：xiaomi
-- 🎀 身份：学生喵
-- 🍰 爱好：冰淇淋
+- 💖 昵称：________
+- 🎀 身份：二次元爱好者 + 程序员
+- 🍰 爱好：追番、画画、写代码
 - ☁️ 状态：努力成长中
-- 🎐 心愿：天天开心
+- 🎐 心愿：代码无 BUG，天天开心
 
 ---
 
 ## 🎀 技能小图标
-- ![C++](https://img.shields.io/badge/-C++-FFC0CB?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-FFC0CB?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-FADADD?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-FFD1DC?style=flat-square&logo=html5)
+![Git](https://img.shields.io/badge/-Git-FFE4E1?style=flat-square&logo=git)
 
 ---
 
 ## 📈 软萌数据面板
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=light-xiaomi-1&theme=rose_pine&hide_border=true&bg_color=FFEEF2">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-xiaomi-1&layout=compact&theme=rose_pine&hide_border=true&bg_color=FFEEF2">
-</p>
+![统计](https://github-readme-stats.vercel.app/api?username=你的用户名&theme=rose_pine&hide_border=true&bg_color=FFEEF2)
+![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=rose_pine&hide_border=true&bg_color=FFEEF2)
 
 ---
 
 ## 🐱 可爱小语录
-<p align="center">
-  <img src="./images/cat.gif" width="120">
-  <br>
-  前路漫漫亦灿灿，小事不急，万事尽力 💐
-</p>
+![小猫](./images/cat.gif)
+
+前路漫漫亦灿灿，小事不急，万事尽力 💐
 
 ---
 
 ## 💌 找我玩
-- 📮 邮箱：light-xiaomi-1@163.com
-- 🌟 欢迎 Star 喵~
-- 🎮 Minecraft同好扩列！
+- 📮 邮箱：________
+- 🌟 欢迎 Star ~
+- 🎮 二次元同好扩列！
 
 ---
 
-<p align="center">
-  <img src="./images/sakura.gif" width="100%">
-  <br>
-  💖 世间温柔喵，皆得所愿喵 💖
-</p>
+![樱花](./images/sakura.gif)
+
+💖 世间温柔，皆得所愿 💖
