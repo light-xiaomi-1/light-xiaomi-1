@@ -2,9 +2,8 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=⭐哈喽~这里是小米⭐">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%AD%90%E5%93%88%E5%96%BD~%E8%BF%99%E9%87%8C%E6%98%AF%E5%B0%8F%E7%B1%B3%E2%AD%90&font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435">
 </div>
-
 
 ![星野](./img/banner.jpg)
 
