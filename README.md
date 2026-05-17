@@ -2,13 +2,13 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%AD%90%E5%93%88%E5%96%BD~%E8%BF%99%E9%87%8C%E6%98%AF%E5%B0%8F%E7%B1%B3%E2%AD%90&font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435">
+    <img src="https://readme-typing-svg.demolab.com/?font=ZCOOL+KuaiLe&size=28&pause=1000&color=F1A9F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%AD%90%E5%93%88%E5%96%BD~%E8%BF%99%E9%87%8C%E6%98%AF%E5%B0%8F%E7%B1%B3%E2%AD%90&">
 </div>
 
 ![星野](./img/banner.jpg)
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=18&pause=1000&color=E199E7&center=true&vCenter=true&width=435&lines=可爱且上进✨;万事皆可期🌸">
+    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=18&pause=1000&color=E199E7&center=true&vCenter=true&width=435&lines=%E5%8F%AF%E7%88%B1%E4%B8%94%E4%B8%8A%E8%BF%9B%E2%9C%A8;%E4%B8%87%E4%BA%8B%E7%9A%86%E5%8F%AF%E6%9C%9F%F0%9F%8C%B8">
 </div>
 
 ---
